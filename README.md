@@ -90,6 +90,6 @@ An intelligent desktop application that classifies skin tones using computer vis
 
 ## 👨‍💻 Author
 
-**Nithin Kumar HS**   
-GitHub: [@NithinKumarHS](https://github.com/NithinKumarHS)    
-LinkedIn: [NithinKumarHS](https://www.linkedin.com/in/nithinkumarhs/)  
+**Pavan Kumar K S**   
+GitHub: [@Pavan-kumar-ks](https://github.com/Pavan-kumar-ks)    
+LinkedIn: [Pavan Kumar K S](www.linkedin.com/in/pavan-kumar-k-s)  
